@@ -10,9 +10,10 @@ p   {
 
 .header {
     overflow: hidden;
-    padding: 20px 10px;
-    text-align: center;
+    margin: 0px;
+    width: 100%;
+    width: 100%;
     background: #3B4252;
-    font-size: 30px;
     font-family: poppins;
+    text-align: center;
   }
