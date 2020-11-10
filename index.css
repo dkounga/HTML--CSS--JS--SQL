@@ -10,10 +10,8 @@ p   {
 
 .header {
     overflow: hidden;
-    margin: 0px;
-    width: 100%;
-    width: 100%;
-    background: #3B4252;
-    font-family: poppins;
+    background-color: #3B4252;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    width: 100%;
   }
