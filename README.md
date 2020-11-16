@@ -1,3 +1,5 @@
 # HTML--CSS--JS--SQL
 
-some trash to test some stuff
+###### **provisional project to learn HTML, CSS, JS, and SQL**
+
+
