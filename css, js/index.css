@@ -4,11 +4,21 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #4C566A;
 }
+div.opening{
+    text-align: center;
 
-h1 {
+}
+
+div.title-text {
+    display: inline-block;
+    text-align: left;
     font-size: xx-large;
-    background: rgb(235, 203, 139);
-    background: linear-gradient(90deg, rgba(235, 203, 139, 1) 0%, rgba(255, 0, 25, 1) 100%);
+    font-weight: 600;
+    padding-top: 4%;
+
+    /* gradient text */
+    background: rgb(255, 240, 209);
+    background: linear-gradient(90deg, rgb(235, 203, 139) 0%, rgb(191, 97, 106) 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
